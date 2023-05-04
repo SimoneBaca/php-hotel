@@ -39,6 +39,7 @@ $hotels = [
     ],
 
 ];
+//aggiungo lista hotel con "logica base"
 foreach($hotels as $hotel){
     //var_dump($hotel);
 
@@ -50,6 +51,7 @@ foreach($hotels as $hotel){
 
 }
 ?>
+  <!-- trasformo la lista in un commento aggiungo la tabella overview tramite boostrap  -->
 
 <!DOCTYPE html>
 <html lang="en">
